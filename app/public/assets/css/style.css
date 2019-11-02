@@ -1,0 +1,67 @@
+div.container {
+    color:rgb(17, 115, 122);
+    background-color: rgb(223, 244, 247);
+    font-family: 'Quicksand', sans-serif;
+    text-align: center; 
+}
+
+hr {
+    border-top: 1px solid red; 
+}
+
+h3 {
+    color: red;
+    font-size: 20px;  
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    color: rgb(156, 14, 14); 
+    font-family: 'Quicksand', sans-serif;
+    font-size: 45px; 
+}
+
+.big {
+    font-family: 'Bowlby One SC', cursive;
+    text-align: center;
+    font-size: 50px; 
+}
+
+#big2{
+    text-align: center;
+    font-size: 50px; 
+}
+
+.btn-primary {
+    background-color: rgb(156, 14, 14);
+    border-color:  rgb(156, 14, 14);
+    color: rgb(223, 244, 247);
+}
+
+a{
+    color:rgb(17, 115, 122);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.form-control {
+    width: 50%;
+    display: inline-block; 
+}
+
+.chosen-container-single .chosen-default {
+    color: red; 
+    background-color: red; 
+}
+
+.chosen-container-single .chosen-single {
+     border: 1px dotted red; 
+}
+
+.chosen-container .chosen-drop {
+    border: 1px dotted red;
+    color: red;
+}
+
+.chosen-container-active .chosen-single {
+  box-shadow: 0 0 5px red;  
+}
