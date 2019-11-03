@@ -1,16 +1,16 @@
 div.container {
-    color:rgb(17, 115, 122);
+    color:rgb(128,129,131);
     background-color: rgb(223, 244, 247);
     font-family: 'Quicksand', sans-serif;
     text-align: center; 
 }
 
 hr {
-    border-top: 1px solid red; 
+    border-top: 1px solid rgb(255,127,79); 
 }
 
 h3 {
-    color: red;
+    color: rgb(255,127,79);
     font-size: 20px;  
     font-family: 'Raleway', sans-serif;
 }
@@ -36,10 +36,13 @@ h2 {
     background-color: rgb(156, 14, 14);
     border-color:  rgb(156, 14, 14);
     color: rgb(223, 244, 247);
+    width: 20%;
+    display: inline-flex;
+    text-align: center;
 }
 
 a{
-    color:rgb(17, 115, 122);
+    color:rgb(252, 113, 62);
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -49,19 +52,19 @@ a{
 }
 
 .chosen-container-single .chosen-default {
-    color: red; 
-    background-color: red; 
+    color: rgb(255,127,79); 
+    background-color: rgb(255,127,79); 
 }
 
 .chosen-container-single .chosen-single {
-     border: 1px dotted red; 
+     border: .5px solid rgb(255,127,79); 
 }
 
 .chosen-container .chosen-drop {
-    border: 1px dotted red;
-    color: red;
+    border: 1px dotted rgb(255,127,79);
+    color: rgb(255,127,79);
 }
 
 .chosen-container-active .chosen-single {
-  box-shadow: 0 0 5px red;  
+  box-shadow: 0 0 5px rgb(255,127,79);  
 }

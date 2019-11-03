@@ -1,0 +1,48 @@
+.jumbotron {
+  color: rgb(128, 129, 131);
+  background-color: rgb(223, 244, 247);
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#h1 {
+  color: rgb(156, 14, 14);
+  font-family: "Bowlby One SC", cursive;
+  font-size: 45px;
+}
+
+#big {
+  color: rgb(156, 14, 14);
+  font-family: "Quicksand", sans-serif;
+  font-size: 45px;
+}
+
+#picture {
+  max-height: 150px;
+  max-width: 150px;
+  width: 150px;
+  height: 150px;
+}
+
+.btn-primary {
+  color: rgb(156, 14, 14);
+  background-color: rgb(252, 113, 62);
+  border-color: rgb(252, 113, 62);
+  box-shadow: 0 0 5px rgb(255, 127, 79);
+}
+
+a {
+  color: rgb(252, 113, 62);
+  font-family: "Quicksand", sans-serif;
+}
+.btn-group-lg > .btn,
+.btn-lg {
+  padding: 1px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
