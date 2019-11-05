@@ -3,7 +3,7 @@
 var friends = [
     {
         "name": "Guillaume Baum",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
         "scores": [
             "5",
             "2",
@@ -39,7 +39,7 @@ var friends = [
     },
     {
         "name": "Liz Dabre",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        "photo": "https://images.unsplash.com/photo-1541694458248-5aa2101c77df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
         "scores": [
             "5",
             "2",
@@ -75,7 +75,7 @@ var friends = [
     },
     {
         "name": "Khadi Madelina",
-        "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        "photo": "https://images.unsplash.com/photo-1550259979-ed79b48d2a30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
         "scores": [
             "3",
             "2",
@@ -111,7 +111,7 @@ var friends = [
     },
     {
         "name": "Selias Ben",
-        "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+        "photo": "https://images.unsplash.com/photo-1549481446-baf395392d13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
         "scores": [
             "2",
             "3",
@@ -122,12 +122,32 @@ var friends = [
             "4",
             "2",
             "4",
-            "3"
+            "3",
+            "1",
+            "4",
+            "3",
+            "1",
+            "2",
+            "5",
+            "2",
+            "2",
+            "5",
+            "2",
+            "4",
+            "2",
+            "3",
+            "1",
+            "2",
+            "5",
+            "2",
+            "2",
+            "5",
+            "2",
         ]
     },
     {
         "name": "Josch Emilian",
-        "photo": "https://m.facebook.com/photo.php?fbid=10208500699025296&id=1542229019&set=a.1549418665704.77596.1542229019&source=11",
+        "photo": "https://images.unsplash.com/photo-1491756975177-a13d74ed1e2f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
         "scores": [
             "1",
             "3",
@@ -163,7 +183,7 @@ var friends = [
     },
     {
         "name": "Jazz Pilz",
-        "photo": "https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/12741971_10205764267089153_4212986785721953092_n.jpg?oh=4e18265f7d380167223a97fbd7eba278&oe=57B78445",
+        "photo": "https://images.unsplash.com/photo-1567013275689-c179a874478f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60",
         "scores": [
             "3",
             "1",
