@@ -68,3 +68,10 @@ a{
 .chosen-container-active .chosen-single {
   box-shadow: 0 0 5px rgb(255,127,79);  
 }
+
+#picture {
+    max-height: 150px;
+    max-width: 150px;
+    width: 150px;
+    height: 150px;
+  }
