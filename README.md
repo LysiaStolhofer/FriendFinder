@@ -2,7 +2,7 @@
 
 _FriendFinder is the gym-buddy-app of your dreams! Answer 30 questions and find your Swolemate._ 
 
-## Features
+## Features :computer:
 - HTML5, CSS3, Jquery
 - Bootstrap
 - npm express
@@ -13,8 +13,7 @@ _FriendFinder is the gym-buddy-app of your dreams! Answer 30 questions and find 
 - Google Web Fonts
 - Flaticons 
 ----------------------------------------------------------------------------------------------------------------------------------
-## FriendFinder Application Structure :computer:
-
+## FriendFinder Application Structure 
 - :file_folder: app
   - :file_folder: data
     - :page_facing_up: friends.js
