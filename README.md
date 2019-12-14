@@ -13,7 +13,7 @@ _FriendFinder is the gym-buddy-app of your dreams! Answer 30 questions and find 
 - Google Web Fonts
 - Flaticons 
 ----------------------------------------------------------------------------------------------------------------------------------
-## FriendFinder Application Structure 
+## FriendFinder Application Structure :computer:
 
 - :file_folder: app
   - :file_folder: data
