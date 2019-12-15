@@ -1,4 +1,4 @@
-# FriendFinder / Find your SwoleMate (Gym-buddy)
+# FriendFinder / Find your SwoleMate (Gym-buddy) :muscle:
 
 _FriendFinder is the gym-buddy-app of your dreams! Answer 30 questions and find your Swolemate._ 
 
