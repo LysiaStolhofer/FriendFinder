@@ -2,6 +2,7 @@
 
 _FriendFinder is the gym-buddy-app of your dreams! Answer 30 questions and find your Swolemate._ 
 
+----------------------------------------------------------------------------------------------------------------------------------
 ## Features :computer:
 - HTML5, CSS3, Jquery
 - Bootstrap
